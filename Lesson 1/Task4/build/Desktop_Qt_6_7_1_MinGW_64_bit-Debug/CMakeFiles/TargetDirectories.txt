@@ -1,0 +1,7 @@
+C:/Users/Elli/Desktop/NG_2024_Elina_Chepizhna/Lesson 1/Task4/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/CMakeFiles/Task4.dir
+C:/Users/Elli/Desktop/NG_2024_Elina_Chepizhna/Lesson 1/Task4/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Elli/Desktop/NG_2024_Elina_Chepizhna/Lesson 1/Task4/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Elli/Desktop/NG_2024_Elina_Chepizhna/Lesson 1/Task4/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/Elli/Desktop/NG_2024_Elina_Chepizhna/Lesson 1/Task4/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/Users/Elli/Desktop/NG_2024_Elina_Chepizhna/Lesson 1/Task4/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/Users/Elli/Desktop/NG_2024_Elina_Chepizhna/Lesson 1/Task4/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
