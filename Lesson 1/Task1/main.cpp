@@ -1,10 +1,12 @@
+
 #include <iostream>
 
 using namespace std;
 
 int main()
 {
-    cout << "Hello World!" << endl;
-    cin.get();
+    cout << "Elina" << endl;
+    cout << "Chepizhna" << endl;
     return 0;
 }
+
